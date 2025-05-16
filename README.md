@@ -44,7 +44,7 @@ This project offers a complete Excel solution for managing finances across an en
 A clean and simplified dashboard to quickly results and fianancial trends.
 
   
-`![Dashboard](./)`
+`![Dashboard](./Screenshot 2025-05-15 at 19.17.15.png)`
 
 ---
 
