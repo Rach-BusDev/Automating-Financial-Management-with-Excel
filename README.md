@@ -41,7 +41,7 @@ This project offers a complete Excel solution for managing finances across an en
 ---
 
 ## 📷 Dashboard
-A clean and simplified dashboard to quickly results and fianancial trends.
+A clean and simplified dashboard to quickly see results and fianancial trends.
 
   
 `![Dashboard](./dashborad-preview.png.png)`
