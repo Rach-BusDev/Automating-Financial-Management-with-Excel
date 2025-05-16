@@ -42,9 +42,8 @@ This project offers a complete Excel solution for managing finances across an en
 
 ## 📷 Preview
 
-_Add a screenshot of your Excel file here (optional)_  
-Example:  
-`![Preview](./images/dashboard-preview.png)`
+  
+`![Dashboard](./screenshot/dashboard-preview.png)`
 
 ---
 
