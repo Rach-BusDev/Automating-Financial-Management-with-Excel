@@ -40,10 +40,11 @@ This project offers a complete Excel solution for managing finances across an en
 
 ---
 
-## 📷 Preview
+## 📷 Dashboard
+A clean and simplified dashboard to quickly results and fianancial trends.
 
   
-`![Dashboard](./screenshot/dashboard-preview.png)`
+`![Dashboard](./)`
 
 ---
 
